@@ -1,0 +1,23 @@
+node_modules/
+build/
+dist/
+dist-ota/
+.ota-staging*
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+android-sdk/
+*.pdf
+*.xlsx
+android/app/src/main/assets/public/
+android/app/build/
+android/build/
+
+# AI Studio & development session artifacts
+.aistudio/
+public/assets/aistudio/
+*.tempmediaStorage/
+report_*.png
+grade*_report.png
